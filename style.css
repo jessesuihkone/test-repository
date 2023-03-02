@@ -1,0 +1,24 @@
+.float-right {
+  float:right;
+  margin: 5px 0 5px 5px;
+}
+.float-left {
+  float:left;
+  margin:5px 5px 5px 0;
+}
+#box1 {
+  width:80%;
+}
+#test {
+  background-color:red;
+}
+.pullquote {
+  width:300px;
+  font-size: 1.25em;
+  float: right;
+  border-left: 15px #770000 solid;
+  padding: 2em 5em 2em;
+  color: #AAAAAA;
+  margin: 1em;
+  background-color: #330000;
+}
